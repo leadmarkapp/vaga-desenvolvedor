@@ -3,41 +3,46 @@
 </h1>
 
 <h3 align="center">
-  Vaga Desenvolvedor
+  LeadMark | Vaga Desenvolvedor
 </h3>
 
 <strong>O que buscamos?</strong>
 
-Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar desafios e desejam trabalhar em projetos de inovação.
+Buscamos pessoas com grande capacidade de raciocício lógico :nerd_face:, capaz de aceitar desafios e desejam trabalhar em projetos de inovação :rocket::airplane::rocket:.
 
 <strong>Habilidades Técnicas:</strong>
 
-- Experiência em desenvolvimento web
-- Experiência com PHP e Laravel e MySQL 
+- Experiência em desenvolvimento web <strong>back-end</strong> :man_technologist:
+- Experiência com PHP, Laravel (+5.7) e MySQL 
 - Experiência com JavaScript
-- Domínio com Git
-- Conhecimento de Front-end (HTML e CSS)
+- Domínio com Git :octocat:
+- Domínio de POO e Padrões de Projetos
+- Conhecimento em front-end (HTML e CSS)
 - API Rest
 - Testes
 
 <strong>Diferenciais:</strong>
-- Conhecimento na Lei Geral de Proteção de Dados Pessoais (LGPD)
+
+- Cases e Porfólio
+- Conhecimento na Lei Geral de Proteção de Dados Pessoais (<strong>LGPD</strong>) :closed_lock_with_key:
 - Scrum
 - Docker
+- Redis
 
 <strong>Habilidades Interpessoais:</strong>
 
-- Raciocínio lógico 
+- Raciocínio lógico :nerd_face:
 - Concentração
-- Proatividade
+- Comunicação
+- Proatividade :coffee::coffee::coffee:...
 
 <strong>Modalidade:</strong>
 
-- Vaga Presencial (Fortaleza, CE)
+- Vaga Presencial (Fortaleza, CE) :earth_americas:
 
 <br>
 <strong>Ficou interessado?</strong><br>
 Entre em contato conosco enviando email para:<br>
 <strong>leadmarkapp@gmail.com</strong> e <strong>leandro.mendestavares@gmail.com</strong><br>
-<strong>Assunto do email:</strong> Vaga Desenvolvedor Reactive<br>
+<strong>Assunto do email:</strong> Vaga Desenvolvedor<br>
 <strong>Atenção:</strong> anexar currículo
