@@ -41,7 +41,9 @@ Buscamos pessoas com grande capacidade de raciocício lógico :nerd_face:, capaz
 - Vaga Presencial (Fortaleza, CE) :earth_americas:
 
 <br>
-<strong>Ficou interessado?</strong><br>
+
+<strong>Ficou interessado?</strong>
+
 Entre em contato conosco enviando email para:<br>
 <strong>leadmarkapp@gmail.com</strong> e <strong>leandro.mendestavares@gmail.com</strong><br>
 <strong>Assunto do email:</strong> Vaga Desenvolvedor<br>
