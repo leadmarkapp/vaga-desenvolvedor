@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Vaga Desenvolvedor Reactive Native
+  Vaga Desenvolvedor
 </h3>
 
 <strong>O que buscamos?</strong>
@@ -12,20 +12,18 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 
 <strong>Habilidades Técnicas:</strong>
 
-- Experiência em desenvolvimento de aplicativos mobile em React Native
-- Capacidade para criar novas funcionalidades
-- Aplicar melhores práticas de documentação de código desenvolvido
+- Experiência em desenvolvimento web
+- Experiência com PHP e Laravel e MySQL 
+- Experiência com JavaScript
 - Domínio com Git
+- Conhecimento de Front-end (HTML e CSS)
 - API Rest
-- Publicação nas plataformas Android e iOS
-- Auxiliar em integrações do Back-End
 - Testes
 
 <strong>Diferenciais:</strong>
-- Cases / Aplicativos desenvolvidos
-- Conhecimento em linguages Back-End (PHP)
-- Gitlab
+- Conhecimento na Lei Geral de Proteção de Dados Pessoais (LGPD)
 - Scrum
+- Docker
 
 <strong>Habilidades Interpessoais:</strong>
 
@@ -33,9 +31,13 @@ Buscamos pessoas com grande capacidade de raciocício lógico, capaz de aceitar 
 - Concentração
 - Proatividade
 
+<strong>Modalidade:</strong>
+
+- Vaga Presencial (Fortaleza, CE)
+
 <br>
 <strong>Ficou interessado?</strong><br>
 Entre em contato conosco enviando email para:<br>
 <strong>leadmarkapp@gmail.com</strong> e <strong>leandro.mendestavares@gmail.com</strong><br>
-<strong>Assunto do email:</strong> Vaga Desenvolvedor Reactive Native<br>
+<strong>Assunto do email:</strong> Vaga Desenvolvedor Reactive<br>
 <strong>Atenção:</strong> anexar currículo
