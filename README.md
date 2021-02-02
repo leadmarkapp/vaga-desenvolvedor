@@ -27,6 +27,7 @@ Buscamos pessoas com grande capacidade de raciocício lógico :nerd_face:, capaz
 - Conhecimento na Lei Geral de Proteção de Dados Pessoais (<strong>LGPD</strong>) :closed_lock_with_key:
 - Scrum
 - Docker
+- GraphQl
 - Redis
 
 <strong>Habilidades Interpessoais:</strong>
