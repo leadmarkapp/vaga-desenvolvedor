@@ -8,7 +8,7 @@
 
 <strong>O que buscamos?</strong>
 
-Buscamos pessoas com grande capacidade de raciocício lógico :nerd_face:, capaz de aceitar desafios e desejam trabalhar em projetos de inovação :rocket::airplane::rocket:.
+Buscamos pessoas com grande capacidade de raciocínio lógico :nerd_face:, capaz de aceitar desafios e desejam trabalhar em projetos de inovação :rocket::airplane::rocket:.
 
 <strong>Habilidades Técnicas:</strong>
 
