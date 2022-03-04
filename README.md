@@ -39,7 +39,7 @@ Buscamos pessoas com grande capacidade de raciocínio lógico :nerd_face:, capaz
 
 <strong>Modalidade:</strong>
 
-- Vaga Presencial (Fortaleza, CE) :earth_americas:
+- Remoto :earth_americas:
 
 <br>
 
